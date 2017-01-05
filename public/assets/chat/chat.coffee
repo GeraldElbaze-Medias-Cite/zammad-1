@@ -195,6 +195,23 @@ do($ = window.jQuery, window) ->
         'Start new conversation': 'Neue Konversation starten'
         'Since you didn\'t respond in the last %s minutes your conversation with <strong>%s</strong> got closed.': 'Da Sie in den letzten %s Minuten nichts geschrieben haben wurde Ihre Konversation mit <strong>%s</strong> geschlossen.'
         'Since you didn\'t respond in the last %s minutes your conversation got closed.': 'Da Sie in den letzten %s Minuten nichts geschrieben haben wurde Ihre Konversation geschlossen.'
+    fr:
+        '<strong>Chat</strong> with us!': '<strong>Chattez</strong> avec nous!'
+        'Scroll down to see new messages': 'Faites défiler pour lire les nouveaux messages'
+        'Online': 'En-ligne'
+        'Online': 'En-ligne'
+        'Offline': 'Hors-ligne'
+        'Connecting': 'Connexion en cours'
+        'Connection re-established': 'Connexion rétablie'
+        'Today': 'Aujourdhui'
+        'Send': 'Envoyer'
+        'Compose your message...': 'Composez votre message...'
+        'All colleagues are busy.': 'Tous les collègues sont actuellement occupés.'
+        'You are on waiting list position <strong>%s</strong>.': 'Vous êtes actuellement en <strong>%s</strong> position dans la file d'attente.'
+        'Start new conversation': 'Démarrer une nouvelle conversation'
+        'Since you didn\'t respond in the last %s minutes your conversation with <strong>%s</strong> got closed.': 'Si vous ne répondez pas dans les %s minutes, votre conversation avec <strong>%s</strong> va être fermée.'
+        'Since you didn\'t respond in the last %s minutes your conversation got closed.': 'Si vous ne répondez pas dans les %s minutes, votre conversation va être fermée.'
+
     sessionId: undefined
     scrolledToBottom: true
     scrollSnapTolerance: 10
